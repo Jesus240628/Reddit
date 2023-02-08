@@ -5,10 +5,14 @@
  */
 package mx.itson.reddit.entidades;
 
+import java.util.List;
+
 /**
  *
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Comunidad {
-    
+    private String nombre;
+    private List<Usuario> usuarios;
+
 }
