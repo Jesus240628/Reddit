@@ -5,10 +5,19 @@
  */
 package mx.itson.reddit.entidades;
 
+import java.util.Date;
+import java.util.List;
+
 /**
  *
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Post {
-    
+ private Usuario usuario;
+ private String titulo;
+ private String cuerpo;
+ private Date fecha;
+ private int puntos;
+ private List<Comentario> comentarios;
+ private Comunidad comunidad;
 }
