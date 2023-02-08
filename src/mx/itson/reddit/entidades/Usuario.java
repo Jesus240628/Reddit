@@ -10,5 +10,9 @@ package mx.itson.reddit.entidades;
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Usuario {
-    
+ private String nombre;
+ private String correo;
+ private String password;
+ private int karma;
+ private String pais; 
 }
