@@ -20,7 +20,7 @@ public class Post {
     private int puntos;
     private List<Comentario> comentarios;
     private Comunidad comunidad;
-    
+
     /**
      * @return the usuario
      */
