@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- *
+ * Clase post con atributos de un post
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Post {

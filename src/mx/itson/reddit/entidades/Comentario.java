@@ -8,7 +8,7 @@ package mx.itson.reddit.entidades;
 import java.util.Date;
 
 /**
- *
+ * Clase comentario con atributos de un comentario
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Comentario {

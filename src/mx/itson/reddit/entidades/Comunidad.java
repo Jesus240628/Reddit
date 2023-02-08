@@ -8,7 +8,7 @@ package mx.itson.reddit.entidades;
 import java.util.List;
 
 /**
- *
+ * Clase comunidad con atributos de una comunidad
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Comunidad {

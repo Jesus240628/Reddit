@@ -6,7 +6,7 @@
 package mx.itson.reddit.entidades;
 
 /**
- *
+ * Clase usuario con atributos de un usuario
  * @author Jesus Javier Quintero Fierro-240628
  */
 public class Usuario {
